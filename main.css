@@ -1,0 +1,71 @@
+.enbuyuk{
+    
+    width:350px;
+    height:auto ;
+    margin: 70px auto;
+}
+.baca{
+width: 25px;
+height: 50px;
+background-color: chocolate;
+margin: 0 0 0 250px;
+
+}
+.cati{
+    background-color: brown;
+    width: 250px;
+    height: 250px;
+    margin: -50px 0 0 50px ;
+    transform: rotate(45deg);
+    position: relative;
+    z-index: 1;
+}
+.govde{
+    width: 330px;
+    height: 400px;
+    background-color: cyan;
+    margin:-125px auto;
+    position:relative;
+    z-index: 2;
+   padding: 30px 0 0 20px;
+}
+.p1{
+    width: 58px;
+    height: 58px;
+    background-color: darkkhaki;
+    margin:0 55px 30px 0;
+    float: left;
+    border: 2px solid black;
+}
+.p2{
+    width: 58px;
+    height: 58px;
+    background-color: darkkhaki;
+    float: left;
+    border: 2px solid black;
+    margin:0 55px 30px 0;
+}
+.p3{
+    width: 58px;
+    height: 58px;
+    background-color: darkkhaki;
+    float: left;
+    border: 2px solid black;
+    margin: 0 0 30px 0;
+}
+
+.solperde{
+    width: 23px ; height:56px; background-color: cornflowerblue;
+    border-left: 1px solid black; border-bottom: 1px solid black;
+    border-radius: 0 0 20px 0; float:left;
+}
+.sagperde{
+    width: 23px ; height:56px; background-color: cornflowerblue;
+    border-right: 1px solid black; border-bottom: 1px solid black;
+    border-radius: 0 0 0 20px; float:right;
+}
+
+.kapiyazi{
+    width: 80px; height: 124px; background-color:rgba(72,72,72,0.4); float: left;
+    margin:0 45px 0 -5px;
+}
